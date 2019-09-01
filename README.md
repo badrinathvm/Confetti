@@ -1,4 +1,4 @@
 # Confetti
 <p align="center">
-<img src="https://github.com/badrinathvm/PriceButton/blob/master/images/confetti.gif" alt="confetti"/>
+<img src="https://github.com/badrinathvm/Confetti/blob/master/images/confetti.gif" alt="confetti"/>
 </p>
