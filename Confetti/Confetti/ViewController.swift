@@ -27,7 +27,8 @@ class ViewController: UIViewController {
         // Set intensity (from 0 - 1, default intensity is 0.5)
         confettiView.intensity = 0.7
         
-        confettiView.type = ConfettiType.image(UIImage(named: "cone")!)
+        confettiView.type = .diamond
+        //confettiView.type = ConfettiType.image(UIImage(named: "smiley")!)
         
         // change to desired number of seconds (in this case 5 seconds)
         let when = DispatchTime.now() + 5

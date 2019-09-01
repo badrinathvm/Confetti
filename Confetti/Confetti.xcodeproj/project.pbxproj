@@ -20,6 +20,7 @@
 		057DF624231C8C2800BD4210 /* confetti.png in Resources */ = {isa = PBXBuildFile; fileRef = 057DF620231C8C2800BD4210 /* confetti.png */; };
 		057DF625231C8C2800BD4210 /* triangle.png in Resources */ = {isa = PBXBuildFile; fileRef = 057DF621231C8C2800BD4210 /* triangle.png */; };
 		057DF627231C8D2900BD4210 /* cone.png in Resources */ = {isa = PBXBuildFile; fileRef = 057DF626231C8D2900BD4210 /* cone.png */; };
+		057DF62D231C901700BD4210 /* smiley.png in Resources */ = {isa = PBXBuildFile; fileRef = 057DF62C231C901700BD4210 /* smiley.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		057DF620231C8C2800BD4210 /* confetti.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = confetti.png; sourceTree = "<group>"; };
 		057DF621231C8C2800BD4210 /* triangle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = triangle.png; sourceTree = "<group>"; };
 		057DF626231C8D2900BD4210 /* cone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cone.png; sourceTree = "<group>"; };
+		057DF62C231C901700BD4210 /* smiley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smiley.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 		057DF61D231C8C0200BD4210 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				057DF62C231C901700BD4210 /* smiley.png */,
 				057DF626231C8D2900BD4210 /* cone.png */,
 				057DF620231C8C2800BD4210 /* confetti.png */,
 				057DF61E231C8C2800BD4210 /* diamond.png */,
@@ -267,6 +270,7 @@
 				057DF5F7231C813800BD4210 /* LaunchScreen.storyboard in Resources */,
 				057DF623231C8C2800BD4210 /* star.png in Resources */,
 				057DF5F4231C813800BD4210 /* Assets.xcassets in Resources */,
+				057DF62D231C901700BD4210 /* smiley.png in Resources */,
 				057DF622231C8C2800BD4210 /* diamond.png in Resources */,
 				057DF5F2231C813600BD4210 /* Main.storyboard in Resources */,
 				057DF625231C8C2800BD4210 /* triangle.png in Resources */,
